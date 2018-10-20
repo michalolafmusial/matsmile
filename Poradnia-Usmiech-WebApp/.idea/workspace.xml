@@ -7,97 +7,192 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="391bc731-aeea-4288-9ceb-725b638c41c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PoradniaUsmiech.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/01_o_nas.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/02_01_specjalisci_agnieszka_adamczyk_musial.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/02_03_karina_choros_wrzeszcz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/02_05_anna_suchecka.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/02_06_marta_chroscicka.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/02_09_katarzyna_andrusikiewicz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/02_10_specjalisci_aleksandra_szalla.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/02_12_miroslaw_dudzinski.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/02_13_paulina_staluszka.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/02_14_katarzyna_wojcieszynska.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/02_specjalisci.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_01_01_psychologia_dorosli.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_01_02_mediacje_dorosli.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_01_03_dietetyk_dorosli.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_01_oferta_dorosli.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_02_01_logopedia_dzieci.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_02_02_pedagogika_dzieci.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_02_03_psychologia_dzieci.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_02_04_terapia_reki_dzieci.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_02_05_gotowosc_szkolna_dzieci.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_02_06_diagnoza_trudnosci_szkolnych.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_02_07_porada_wychowawcza.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_02_oferta_dzieci.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_03_01_wie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_03_02_tus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_03_03_wuw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/03_03_warsztaty_grupowe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/04_wspolpraca_kariera.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/05_galeria.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/06_cennik.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/07_kontakt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/baner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/modern-business.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/spinning.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/_spinning.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/gallery.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/contact_me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jqBootstrapValidation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/search_table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jjdzw1-homeworks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jjdzw1-materialy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jjdzw1-materialy-html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jjdzw1-materialy-java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jjdzw1-niebiescy-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Akademia-Edukacji-Usmiech" beforeDir="false" afterPath="$PROJECT_DIR$/../Akademia-Edukacji-Usmiech" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Poradnia-Psychologiczna-Usmiech" beforeDir="false" afterPath="$PROJECT_DIR$/../Poradnia-Psychologiczna-Usmiech" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PoradniaUsmiech.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/PoradniaUsmiech.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/01_o_nas.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/02_01_specjalisci_agnieszka_adamczyk_musial.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/02_03_karina_choros_wrzeszcz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/02_05_anna_suchecka.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/02_06_marta_chroscicka.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/02_09_katarzyna_andrusikiewicz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/02_10_specjalisci_aleksandra_szalla.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/02_12_miroslaw_dudzinski.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/02_13_paulina_staluszka.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/02_14_katarzyna_wojcieszynska.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/02_specjalisci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_01_01_psychologia_dorosli.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_01_02_mediacje_dorosli.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_01_03_dietetyk_dorosli.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_01_oferta_dorosli.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_02_01_logopedia_dzieci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_02_02_pedagogika_dzieci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_02_03_psychologia_dzieci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_02_04_terapia_reki_dzieci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_02_05_gotowosc_szkolna_dzieci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_02_06_diagnoza_trudnosci_szkolnych.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_02_07_porada_wychowawcza.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_02_oferta_dzieci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_03_01_wie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_03_02_tus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_03_03_wuw.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/03_03_warsztaty_grupowe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/04_wspolpraca_kariera.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/05_galeria.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/06_cennik.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/07_kontakt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/baner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/css/modern-business.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/spinning.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/_spinning.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/js/contact_me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/js/jqBootstrapValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/src/main/webapp/js/search_table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/01_o_nas.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/02_01_specjalisci_agnieszka_adamczyk_musial.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/02_03_karina_choros_wrzeszcz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/02_05_anna_suchecka.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/02_06_marta_chroscicka.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/02_09_katarzyna_andrusikiewicz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/02_10_specjalisci_aleksandra_szalla.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/02_12_miroslaw_dudzinski.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/02_13_paulina_staluszka.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/02_14_katarzyna_wojcieszynska.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/02_specjalisci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_01_01_psychologia_dorosli.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_01_02_mediacje_dorosli.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_01_03_dietetyk_dorosli.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_01_oferta_dorosli.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_02_01_logopedia_dzieci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_02_02_pedagogika_dzieci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_02_03_psychologia_dzieci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_02_04_terapia_reki_dzieci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_02_05_gotowosc_szkolna_dzieci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_02_06_diagnoza_trudnosci_szkolnych.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_02_07_porada_wychowawcza.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_02_oferta_dzieci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_03_01_wie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_03_02_tus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_03_03_wuw.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/03_03_warsztaty_grupowe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/04_wspolpraca_kariera.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/05_galeria.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/06_cennik.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/07_kontakt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/baner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/css/modern-business.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/spinning.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/_spinning.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/js/contact_me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/js/jqBootstrapValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/PoradniaUsmiech/js/search_table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PoradniaUsmiech/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jjdzw1-materialy-codereview" beforeDir="false" afterPath="$PROJECT_DIR$/../jjdzw1-materialy-codereview" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jjdzw1-materialy-soap" beforeDir="false" afterPath="$PROJECT_DIR$/../jjdzw1-materialy-soap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jjdzw1-materialy-tddkata" beforeDir="false" afterPath="$PROJECT_DIR$/../jjdzw1-materialy-tddkata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jjdzw1-materialy-tddkata.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jjdzw1-niebiescy-app" beforeDir="false" afterPath="$PROJECT_DIR$/../jjdzw1-niebiescy-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jjdzw1-niebiescy-web" beforeDir="false" afterPath="$PROJECT_DIR$/../jjdzw1-niebiescy-web" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -149,13 +244,25 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1691676004">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-48" />
+            <state relative-caret-position="131">
+              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -186,7 +293,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -237,44 +344,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PoradniaUsmiech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoradniaUsmiech" type="462c0819:PsiDirectoryNode" />
+              <item name="Poradnia-Usmiech-WebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Poradnia-Usmiech-WebApp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PoradniaUsmiech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoradniaUsmiech" type="462c0819:PsiDirectoryNode" />
+              <item name="Poradnia-Usmiech-WebApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Poradnia-Usmiech-WebApp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PoradniaUsmiech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoradniaUsmiech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PoradniaUsmiech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoradniaUsmiech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535296176227" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Akademia-Edukacji-Usmiech" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -394,47 +489,50 @@
       <option name="presentableId" value="Default" />
       <updated>1535295246216</updated>
       <workItem from="1535295247834" duration="904000" />
+      <workItem from="1535297105602" duration="137000" />
+      <workItem from="1535326623938" duration="534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="904000" />
+    <option name="totallyTimeSpent" value="1575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1263" height="776" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497939" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25803792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.32978722" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="CheckStyle" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32978722" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" weight="0.3297609" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32978722" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297609" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,6 +542,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -457,20 +569,8 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/01_o_nas.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-48" />
-      </provider>
     </entry>
   </component>
 </project>
